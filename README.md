@@ -1,4 +1,5 @@
 # 英文学术论文分类竞赛Rank 10的 0.8304开源多方案
+感谢2021年7月遇到三个志同道合的队友：[博远](https://www.zhihu.com/people/sampras)、[禹飞](https://blog.csdn.net/weixin_44691087?t=1)、 [沛恒](https://blog.csdn.net/I_AM_jm?t=1)，互相鼓励，一直出谋划策一个月，最终以0.8304的成绩获得rank 10/389的成绩。
 <img width="1219" alt="截屏2021-08-12 下午2 59 42" src="https://user-images.githubusercontent.com/41046610/129433896-9bcaa108-edba-4a61-8fbd-27039759e6d6.png">
 
 # 1 赛题
