@@ -1,4 +1,4 @@
-＃　英文学术论文分类竞赛top 10的 0.8304开源多方案
+# 英文学术论文分类竞赛top 10的 0.8304开源多方案
 # 1 赛题
 [比赛官网](https://challenge.xfyun.cn/topic/info?type=academic-paper-classification)
 本次赛题希望参赛选手利用论文信息：论文id、标题、摘要，划分论文具体类别。 赛题样例（使用\t分隔）：  
