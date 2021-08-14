@@ -27,24 +27,24 @@ accuracy_score(y_true, y_pred)
 >transformers ==3   
 
 # 4 文件介绍
-├── Bert
-│   ├── bert_base.ipynb
-│   ├── bert_large.ipynb
-│   ├── build_predata.ipynb
-│   ├── Mixed precision training_Bert.ipynb
-│   ├── roberta_base.ipynb
-│   └── roberta_large.ipynb
-├── data
-├── Data Augmentation 
-│   └── aug_data.ipynb  # 数据增强  
-├── EDA.ipynb           # 数据分析与探索
-├── Meachine Learning
-│   └── ML-LGB.py       # 机器学习LGB方案
-├── test_accuracy.ipynb
-├── Traditional DL
-│   ├── DL_Model.ipynb  # 传统深度学习方案包括textCNN、fasttext、DPCNN、TextRNN     
-│   └── model
-│       └── word2vec.bin # word2vec词向量
-└── voting_ensemble and build pseudo label data.ipynb　　　＃　投票融合和投票构造伪标签
+├── Bert　　
+│   ├── bert_base.ipynb　　
+│   ├── bert_large.ipynb　　
+│   ├── build_predata.ipynb　　
+│   ├── Mixed precision training_Bert.ipynb　　
+│   ├── roberta_base.ipynb　　
+│   └── roberta_large.ipynb　　
+├── data　　
+├── Data Augmentation 　　
+│   └── aug_data.ipynb  # 数据增强　　
+├── EDA.ipynb           # 数据分析与探索　　
+├── Meachine Learning　　
+│   └── ML-LGB.py       # 机器学习LGB方案　　
+├── test_accuracy.ipynb　　
+├── Traditional DL　　
+│   ├── DL_Model.ipynb  # 传统深度学习方案包括textCNN、fasttext、DPCNN、TextRNN　　
+│   └── model　　
+│       └── word2vec.bin # word2vec词向量　　
+└── voting_ensemble and build pseudo label data.ipynb　　　＃　投票融合和投票构造伪标签　　
 
 
