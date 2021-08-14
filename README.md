@@ -1,4 +1,6 @@
 # 英文学术论文分类竞赛Rank 10的 0.8304开源多方案
+<img width="1219" alt="截屏2021-08-12 下午2 59 42" src="https://user-images.githubusercontent.com/41046610/129433896-9bcaa108-edba-4a61-8fbd-27039759e6d6.png">
+
 # 1 赛题
 [比赛官网](https://challenge.xfyun.cn/topic/info?type=academic-paper-classification)
 本次赛题希望参赛选手利用论文信息：论文id、标题、摘要，划分论文具体类别。 赛题样例（使用\t分隔）：  
