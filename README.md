@@ -1,3 +1,4 @@
+＃　英文学术论文分类竞赛top 10的 0.8304开源多方案
 # 1 赛题
 [比赛官网](https://challenge.xfyun.cn/topic/info?type=academic-paper-classification)
 本次赛题希望参赛选手利用论文信息：论文id、标题、摘要，划分论文具体类别。 赛题样例（使用\t分隔）：  
@@ -32,8 +33,8 @@ accuracy_score(y_true, y_pred)
 │   ├── bert_base.ipynb　　
 │   ├── bert_large.ipynb　　
 │   ├── build_predata.ipynb　　
-│   ├── Mixed precision training_Bert.ipynb　　
-│   ├── roberta_base.ipynb　　
+│   ├── Mixed precision training_Bert.ipynb　　# 加入了混合精度训练的例子　　　
+│   ├── roberta_base.ipynb　　
 │   └── roberta_large.ipynb　　
 ├── data　　
 ├── Data Augmentation 　　
@@ -41,11 +42,11 @@ accuracy_score(y_true, y_pred)
 ├── EDA.ipynb           # 数据分析与探索　　
 ├── Meachine Learning　　
 │   └── ML-LGB.py       # 机器学习LGB方案　　
-├── test_accuracy.ipynb　　
+├── test_accuracy.ipynb　　＃线下测试准确率
 ├── Traditional DL　　
 │   ├── DL_Model.ipynb  # 传统深度学习方案包括textCNN、fasttext、DPCNN、TextRNN　　
 │   └── model　　
-│       └── word2vec.bin # word2vec词向量　　
+│       └── word2vec.bin # word2vec词向量　128维度
 └── voting_ensemble and build pseudo label data.ipynb　　　＃　投票融合和投票构造伪标签　　
 ```
 
