@@ -27,6 +27,7 @@ accuracy_score(y_true, y_pred)
 >transformers ==3   
 
 # 4 文件介绍
+```
 ├── Bert　　
 │   ├── bert_base.ipynb　　
 │   ├── bert_large.ipynb　　
@@ -46,5 +47,6 @@ accuracy_score(y_true, y_pred)
 │   └── model　　
 │       └── word2vec.bin # word2vec词向量　　
 └── voting_ensemble and build pseudo label data.ipynb　　　＃　投票融合和投票构造伪标签　　
+```
 
 
